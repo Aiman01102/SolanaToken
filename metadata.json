@@ -1,0 +1,6 @@
+{
+  "name": "SexToken",
+  "symbol": "Sex",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/Aiman01102/SolanaToken/78f98bd40f3763186c09c2b6f393a4febcfd067c/SexToken.png"
+}
